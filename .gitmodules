@@ -1,9 +1,0 @@
-[submodule "node_modules/buster"]
-	path = node_modules/buster
-	url = https://git.gitorious.org/buster/buster.git
-[submodule "node_modules/sinon"]
-	path = node_modules/sinon
-	url = https://github.com:cjohansen/Sinon.JS.git
-[submodule "node_modules/buster-script-loader"]
-	path = node_modules/buster-script-loader
-	url = https://git.gitorious.org/buster/buster-script-loader.git
